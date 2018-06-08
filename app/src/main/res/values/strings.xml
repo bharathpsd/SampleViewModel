@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLayoutDemo</string>
+    <string name="submit">submit</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="hello">Hello World</string>
+    <string name="second">second</string>
+</resources>
